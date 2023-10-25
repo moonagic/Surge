@@ -7,6 +7,9 @@ DOMAIN,c0.jdbstatic.com
 DOMAIN-KEYWORD,javdb
 DOMAIN,kr.cdn.blizzard.com
 DOMAIN,kr.patch.battle.net
+DOMAIN,kr.actual.battle.net
+DOMAIN,kr.version.battle.net
+DOMAIN,telemtry-in.battle.net
 DOMAIN,alert-kr.battle.net
 PROCESS-NAME,Battle.net
 PROCESS-NAME,Agent
