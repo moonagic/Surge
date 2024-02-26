@@ -14,5 +14,6 @@ DOMAIN,werss.app
 DOMAIN,fast.losadhwselfff2332dasd.xyz
 DOMAIN-SUFFIX,hexagramglobal.com
 
-DOMAIN-SUFFIX,222.178.181.
+
+IP-CIDR,222.178.181.35/32
 
