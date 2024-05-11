@@ -1,6 +1,8 @@
 # NAME: OpenAI
 
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,oaistatic.com
