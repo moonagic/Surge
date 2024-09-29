@@ -10,6 +10,7 @@ PROCESS-NAME,Folx GO+
 PROCESS-NAME,altool
 PROCESS-NAME,Transporter
 PROCESS-NAME,hysteria
+PROCESS-NAME,Tailscale
 DOMAIN,cq.tgovcloud.com
 DOMAIN,modao.cc
 DOMAIN-KEYWORD,104.198.104.
