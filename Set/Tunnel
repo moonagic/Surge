@@ -13,3 +13,4 @@ DOMAIN,telemtry-in.battle.net
 DOMAIN,alert-kr.battle.net
 PROCESS-NAME,Battle.net
 PROCESS-NAME,Agent
+DOMAIN,tailscale.com
