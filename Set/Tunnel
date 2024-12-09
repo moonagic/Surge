@@ -14,3 +14,4 @@ DOMAIN,alert-kr.battle.net
 PROCESS-NAME,Battle.net
 PROCESS-NAME,Agent
 DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN,tailscale.com
