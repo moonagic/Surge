@@ -1,3 +1,5 @@
-
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,squadbustersgame.com
+DOMAIN-SUFFIX,brawlstarsgame.com
 AND,((PROTOCOL,UDP), (DEST-PORT,10000-65535))
 AND,((PROTOCOL,UDP), (DEST-PORT,9000-9900))
