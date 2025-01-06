@@ -8,14 +8,6 @@ DOMAIN,ampproject.org,force-remote-dns
 # >> Cloudflare
 DOMAIN-SUFFIX,cloudflareresolve.com,force-remote-dns
 
-# >> rixCloud
-DOMAIN-SUFFIX,rix.ee,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.com,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.us,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.io,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.app,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.ee,force-remote-dns
-
 # >> Facebook
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,fb.me,force-remote-dns
@@ -118,3 +110,5 @@ DOMAIN,onedrive.live.com,force-remote-dns
 DOMAIN-KEYWORD,jav,force-remote-dns
 DOMAIN-KEYWORD,pinterest,force-remote-dns
 DOMAIN-KEYWORD,porn,force-remote-dns
+
+DOMAIN-SUFFIX,tailscale.com,force-remote-dns
