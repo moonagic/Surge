@@ -6,6 +6,7 @@ DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN,vip1.loli.net
 DOMAIN,ip.istatmenus.app
+DOMAIN-SUFFIX,gov.cn,DIRECT
 
 DOMAIN,apapia-history.manmanbuy.com
 
